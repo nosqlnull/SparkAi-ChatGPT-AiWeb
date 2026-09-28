@@ -40,6 +40,17 @@
 >
 > **2026 special rebuild with commercial system capabilities:** This edition supports membership packages, online payment, distribution, and other commercial operation features, so you can run it commercially for free. For the latest models, standalone painting, AI video, and other complete AI capabilities with continuous updates, choose the **<a href="https://docs.sparkaigc.com/en/pro/" target="_blank" rel="noopener noreferrer">official Commercial License Version</a>**.
 
+> [!IMPORTANT]
+> - SparkAi is a privately deployable **AI application system** (AIGC website system software), **not an API relay or proxy system**.
+> - **The system itself does not provide any generative AI service, nor any AI large model, model API, or model capability.** The chat, painting, video, and other AI features are provided by third-party model services that the user connects on their own.
+> - Users must obtain API keys, accounts, and interface authorization for upstream model services through legitimate channels, and comply with the upstream providers' terms of service and applicable local laws and regulations.
+> - This project is intended only for lawful AI application building, internal enterprise use, and private deployment. Any illegal use is prohibited.
+
+> [!WARNING]
+> - When the system is deployed as a public-facing AI service, the deployer (operator) is the service provider and bears full responsibility for the site's content and operations. SparkAi only provides the system software and does not take part in operating any site.
+> - Public-facing generative AI services in mainland China must comply with the <a href="http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm" target="_blank" rel="noopener noreferrer">Interim Measures for the Management of Generative AI Services</a> and related rules. Operators must complete filing, content security, real-name verification, log retention, taxation, payment qualification, upstream authorization, and other compliance obligations themselves.
+> - The built-in sensitive-word filtering, content moderation, and other risk-control features are auxiliary tools only and do not replace the operator's compliance obligations.
+
 <h2 id="readme-about">🌟 About the SparkAi Commercial System</h2>
 
 **SparkAi is a { Progressive } AIGC system with multi-language internationalization support – a one-stop AI system built on OpenAI/ChatGPT, the latest flagship model GPT-6, Anthropic Claude (Claude-Opus-5-5 / Claude-Fable-5-1), Google Gemini, DeepSeek, 🎨GPT-Image-2 / GPT-Image-2.5 painting, 🍌Nano-Banana-2 second-generation painting, Midjourney V8, VEO3.1 / Sora-2 video, Seedance2.5 video (coming soon), Agent intelligent agents with Coze plugins, workflows, functions, knowledge bases, and other large-model capabilities; it supports "🤖AI Chat", "🎨Professional AI Painting", "🧠AI Agents", "🪟Coze-Agent Workflow Apps", "🎬AI Video Generation", etc., and supports independent private deployment!**
@@ -55,17 +66,6 @@ It provides comprehensive solutions for individual users (ToC), developers (ToD)
 - 💰 **Points and account security**: points details reconciliation, zero charge on failed model calls, login device and remote-login detection
 
 See <a href="https://docs.sparkaigc.com/en/docs/guide/" target="_blank" rel="noopener noreferrer">System Core Functions</a> and the <a href="https://docs.sparkaigc.com/en/log/" target="_blank" rel="noopener noreferrer">Changelog</a> for more details.
-
-> [!IMPORTANT]
-> - SparkAi is a privately deployable **AI application system** (AIGC website system software), **not an API relay or proxy system**.
-> - **The system itself does not provide any generative AI service, nor any AI large model, model API, or model capability.** The chat, painting, video, and other AI features are provided by third-party model services that the user connects on their own.
-> - Users must obtain API keys, accounts, and interface authorization for upstream model services through legitimate channels, and comply with the upstream providers' terms of service and applicable local laws and regulations.
-> - This project is intended only for lawful AI application building, internal enterprise use, and private deployment. Any illegal use is prohibited.
-
-> [!WARNING]
-> - When the system is deployed as a public-facing AI service, the deployer (operator) is the service provider and bears full responsibility for the site's content and operations. SparkAi only provides the system software and does not take part in operating any site.
-> - Public-facing generative AI services in mainland China must comply with the <a href="http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm" target="_blank" rel="noopener noreferrer">Interim Measures for the Management of Generative AI Services</a> and related rules. Operators must complete filing, content security, real-name verification, log retention, taxation, payment qualification, upstream authorization, and other compliance obligations themselves.
-> - The built-in sensitive-word filtering, content moderation, and other risk-control features are auxiliary tools only and do not replace the operator's compliance obligations.
 
 <h2 id="readme-demo">🖥️ Official Demo of the Commercial License Version</h2>
 
