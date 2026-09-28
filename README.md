@@ -29,7 +29,8 @@
   <a href="#readme-compare">版本对比</a> •
   <a href="#readme-free">公益免费商业版</a> •
   <a href="#readme-deploy">安装部署</a> •
-  <a href="#readme-changelog">更新日志</a>
+  <a href="#readme-changelog">更新日志</a> •
+  <a href="#readme-agpl">许可证</a>
 </p>
 
 </div>
@@ -52,6 +53,17 @@
 - 💰 **积分与账户安全**：积分明细对账、模型调用失败零扣费、登录设备与异地识别
 
 更多内容详见<a href="https://docs.sparkaigc.com/docs/guide/" target="_blank" rel="noopener noreferrer">系统核心功能</a>与<a href="https://docs.sparkaigc.com/log/" target="_blank" rel="noopener noreferrer">更新日志</a>。
+
+> [!IMPORTANT]
+> - SparkAi 是一套可私有化部署的 **AI 应用系统**（AIGC 网站系统软件），**不是 API 中转 / 代理系统**。
+> - **系统本身不提供任何生成式人工智能服务，也不提供任何 AI 大模型、模型 API 及模型能力**；系统中的对话、绘画、视频等 AI 功能，均由使用者自行对接的第三方模型服务提供。
+> - 使用者须通过合法途径自行获取上游模型服务的 API Key、账号及接口授权，并遵守上游服务商的服务条款及所在地法律法规。
+> - 本项目仅面向合法合规的 AI 应用搭建、企业内部使用与私有化部署场景，禁止用于任何违法违规用途。
+
+> [!WARNING]
+> - 将本系统部署为面向公众的 AI 服务时，部署方（运营者）即为服务提供者，对站点内容与运营行为承担全部责任；SparkAi 仅提供系统软件，不参与任何站点的运营。
+> - 在中国境内面向公众提供生成式人工智能服务，须遵守 <a href="http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm" target="_blank" rel="noopener noreferrer">《生成式人工智能服务管理暂行办法》</a> 等规定，自行完成备案、内容安全、用户实名、日志留存、税务、支付资质及上游授权等合规义务。
+> - 系统内置的敏感词过滤、内容审核等风控功能仅为辅助工具，不能替代运营者的合规义务。
 
 <h2 id="readme-demo">🖥️ 授权商业版本官方演示站</h2>
 
@@ -371,3 +383,13 @@ pnpm start      # 启动服务（默认 9520 端口）
 <a href="https://star-history.com/#nosqlnull/SparkAi-ChatGPT-AiWeb&Date" target="_blank" rel="noopener noreferrer">![Star History Chart](https://api.star-history.com/svg?repos=nosqlnull/SparkAi-ChatGPT-AiWeb&type=Date)</a>
 
 </div>
+
+<h2 id="readme-agpl">📜 许可证</h2>
+
+本仓库发布的 SparkAi 公益免费商业版程序包采用 [《SparkAi 公益免费商业版使用许可协议》](./LICENSE) 授权（免费使用许可，非开源许可证）：
+
+- ✅ **允许：** 个人或企业免费下载、安装部署，并将其用于自有站点的商业运营（会员套餐、在线支付、分销推广等）。
+- ❌ **禁止：** 出售、出租或以任何形式有偿分发本程序包及其修改版本；将本系统包装为自有产品对外售卖；反编译、破解，或删除、篡改版权与授权信息。
+- ⚠️ 本程序包按「现状」提供，不附带任何形式的担保；使用本系统运营 AI 服务的合规责任由部署方承担。
+
+如需源代码授权、二次开发或其他授权方式，请发送邮件至：[evenkepler@gmail.com](mailto:evenkepler@gmail.com)，或添加作者微信 `DjiMain`（备注 `SparkAi`）。

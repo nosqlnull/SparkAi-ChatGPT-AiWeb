@@ -1,0 +1,133 @@
+SparkAi 公益免费商业版使用许可协议
+SparkAi Public Good Free Commercial Edition License Agreement
+
+Copyright (c) 2023-2026 SparkAi. All rights reserved.
+版权所有 (c) 2023-2026 SparkAi，保留所有权利。
+
+========================================================================
+中文版本
+========================================================================
+
+本协议适用于本仓库发布的 SparkAi 公益免费商业版（SparkAi-ChatGPT-AiWeb，
+Public Good 版本）程序包、配置模板、静态资源及相关文档（以下简称“本软件”）。
+下载、安装、部署或使用本软件，即表示您已阅读并同意本协议全部条款。
+本协议为免费使用许可，不属于开源许可证。
+
+一、授权许可
+  在遵守本协议的前提下，SparkAi 授予您一项免费、非独占、不可转让、
+  不可再许可的使用许可，您可以：
+  1. 免费下载、安装和部署本软件；
+  2. 将本软件用于个人或企业自有站点的运营，包括会员套餐、在线支付、
+     分销推广等商业运营场景；
+  3. 在不违反本协议限制条款的前提下，修改本软件的配置、界面文案与静态资源，
+     以满足自有站点的使用需要。
+
+二、使用限制
+  未经 SparkAi 书面授权，您不得：
+  1. 出售、出租、出借本软件，或以任何形式有偿分发本软件及其修改版本；
+  2. 将本软件或其修改版本包装、更名为自有产品对外售卖，或作为付费产品、
+     付费服务的组成部分提供给第三方下载或部署；
+  3. 对本软件进行反编译、反汇编、逆向工程或破解；
+  4. 删除、遮盖或篡改本软件中的版权声明、授权信息及本协议；
+  5. 将本软件用于任何违反法律法规或侵害他人合法权益的用途。
+
+三、AI 服务与合规责任
+  1. 本软件是 AI 应用系统软件，本身不提供任何生成式人工智能服务，
+     也不提供任何 AI 大模型、模型 API 及模型能力。
+  2. 您须通过合法途径自行获取上游模型服务的授权，并遵守上游服务条款。
+  3. 您使用本软件面向公众提供服务时，即为该服务的提供者，须自行履行
+     所在司法辖区要求的备案、内容安全、用户实名、日志留存、税务、支付资质
+     及上游授权等全部合规义务，并对站点内容与运营行为承担全部责任。
+
+四、知识产权
+  本软件的著作权及其他知识产权归 SparkAi 所有。本协议仅授予使用许可，
+  不转让本软件的任何所有权。
+
+五、免责声明
+  本软件按“现状”提供，不附带任何明示或默示的担保，包括但不限于适销性、
+  特定用途适用性及不侵权的担保。在任何情况下，SparkAi 均不对因使用或无法
+  使用本软件而产生的任何直接、间接、偶然或后果性损失承担责任。
+
+六、协议终止
+  如您违反本协议任一条款，本协议授予的许可自动终止，您应立即停止使用
+  并删除本软件的全部副本。SparkAi 保留依法追究相关责任的权利。
+
+七、其他授权
+  如需源代码授权、二次开发、再分发或其他授权方式，请联系：
+  邮箱：evenkepler@gmail.com
+  作者微信：DjiMain（备注 SparkAi）
+  商业授权版本：https://docs.sparkaigc.com/pro/
+
+========================================================================
+English Version
+========================================================================
+
+This Agreement applies to the SparkAi Public Good Free Commercial Edition
+(SparkAi-ChatGPT-AiWeb, Public Good version) package, configuration templates,
+static assets, and related documentation published in this repository
+(the "Software"). By downloading, installing, deploying, or using the Software,
+you agree to all terms of this Agreement. This Agreement is a free-use license
+and is not an open-source license.
+
+1. License Grant
+   Subject to this Agreement, SparkAi grants you a free, non-exclusive,
+   non-transferable, non-sublicensable license to:
+   a) download, install, and deploy the Software for free;
+   b) use the Software to operate your own personal or company sites,
+      including commercial operations such as membership packages,
+      online payment, and distribution;
+   c) modify the configuration, interface text, and static assets of the
+      Software as needed for your own sites, without breaching Section 2.
+
+2. Restrictions
+   Without SparkAi's written permission, you may not:
+   a) sell, rent, or lend the Software, or distribute the Software or any
+      modified version of it for a fee in any form;
+   b) repackage or rename the Software or any modified version of it as your
+      own product for sale, or provide it to third parties for download or
+      deployment as part of a paid product or service;
+   c) decompile, disassemble, reverse engineer, or crack the Software;
+   d) remove, obscure, or alter any copyright notice, license information,
+      or this Agreement in the Software;
+   e) use the Software for any purpose that violates laws or regulations or
+      infringes the lawful rights of others.
+
+3. AI Services and Compliance
+   a) The Software is AI application system software. It does not itself
+      provide any generative AI service, nor any AI large model, model API,
+      or model capability.
+   b) You must obtain authorization for upstream model services through
+      legitimate channels and comply with the upstream terms of service.
+   c) When you use the Software to provide services to the public, you are
+      the provider of those services. You must fulfil all compliance
+      obligations required in your jurisdiction, including filing, content
+      security, real-name verification, log retention, taxation, payment
+      qualification, and upstream authorization, and you bear full
+      responsibility for your site's content and operations.
+
+4. Intellectual Property
+   Copyright and all other intellectual property rights in the Software
+   belong to SparkAi. This Agreement grants a license to use only and does
+   not transfer any ownership of the Software.
+
+5. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   SPARKAI BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+   DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+6. Termination
+   This license terminates automatically if you breach any term of this
+   Agreement. You must then stop using the Software and delete all copies.
+   SparkAi reserves the right to pursue liability in accordance with the law.
+
+7. Other Licensing
+   For source code licensing, custom development, redistribution, or other
+   licensing options, please contact:
+   Email: evenkepler@gmail.com
+   WeChat: DjiMain (note SparkAi)
+   Commercial License Version: https://docs.sparkaigc.com/en/pro/
+
+In case of any discrepancy between the Chinese and English versions,
+the Chinese version shall prevail.
